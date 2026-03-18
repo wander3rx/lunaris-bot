@@ -88,4 +88,4 @@ async def jupiter(ctx):
 async def saturno(ctx):
     await dar_cargo(ctx, "Saturno")
 
-bot.run("MTQ4MTkwMzk2NDUxMjMyNTY3Mg.GV9bBn.s9FmzVwM5VtWZ6C8epu0ZiF5fS52NNIokawgnY")
+bot.run("tokendalunaris")
